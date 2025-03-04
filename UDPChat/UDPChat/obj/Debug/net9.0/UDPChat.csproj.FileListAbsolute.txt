@@ -1,0 +1,14 @@
+D:\Games\UDPChat\UDPChat\bin\Debug\net9.0\UDPChat.exe
+D:\Games\UDPChat\UDPChat\bin\Debug\net9.0\UDPChat.deps.json
+D:\Games\UDPChat\UDPChat\bin\Debug\net9.0\UDPChat.runtimeconfig.json
+D:\Games\UDPChat\UDPChat\bin\Debug\net9.0\UDPChat.dll
+D:\Games\UDPChat\UDPChat\bin\Debug\net9.0\UDPChat.pdb
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\UDPChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\UDPChat.AssemblyInfoInputs.cache
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\UDPChat.AssemblyInfo.cs
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\UDPChat.csproj.CoreCompileInputs.cache
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\UDPChat.dll
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\refint\UDPChat.dll
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\UDPChat.pdb
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\UDPChat.genruntimeconfig.cache
+D:\Games\UDPChat\UDPChat\obj\Debug\net9.0\ref\UDPChat.dll
